@@ -1,0 +1,9 @@
+{
+    "jid": "000000_00000@chat.hipchat.com/bot",
+    "password": "test",
+    "room_name": "0000_XXXXX@conf.hipchat.com",
+    "room_id": 00000,
+    "auth_token": "0f0f0f0f0f0f0f0f0f0f0f0",
+    "socket": "/tmp/anarchychat",
+    "db": "anarchychat"
+}

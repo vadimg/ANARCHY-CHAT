@@ -1,0 +1,19 @@
+{
+  "author": "Vadim Graboys <dimva13@gmail.com> (deapthoughts.com)",
+  "name": "anarchychat",
+  "description": "Anarchy Chat for Hipchat",
+  "version": "0.0.1",
+  "repository": {
+    "url": ""
+  },
+  "engines": {
+    "node": "~0.6.9"
+  },
+  "dependencies": {
+    "request": "2.9.202",
+    "wobot": "0.7.0",
+    "node-stringprep": "0.1.4"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {}
+}
